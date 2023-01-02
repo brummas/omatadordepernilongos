@@ -1,4 +1,7 @@
 # omatadordepernilongos
+
+A simple video game made for practice JavaScript!
+
 <div style="display: inline_block"><br>
       📫 Made with: </a><br>
       <img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
